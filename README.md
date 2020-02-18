@@ -23,7 +23,7 @@ Please fork this repository and ensure you have a local working copy. You will n
 Setup:
 
 ```
-npm install 
+npm install
 ```
 
 Tests:
