@@ -41,6 +41,6 @@ npm start
 Follow the coach instructions and good luck!
 
 ## Owners
-Marcelo Zambrana
+Marcelo Zambrana Villarroel
 Tamer Maher El-Sharkawy
 Herb Raffaele
